@@ -1,0 +1,14 @@
+{
+    "name": "LazyRedpaw.GuidSerialization",
+    "rootNamespace": "LazyRedpaw.GuidSerialization",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,10 +1,10 @@
 {
   "name": "com.lazyredpaw.guidserialization",
   "displayName": "Guid Serialization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.0",
   "author": {
-    "name": "LazyRedpaw"
+    "name": "Lazy Redpaw"
   },
   "description": "A package with a globally unique identifier (GUID) that can be serialized with Unity and used in game scripts. I am NOT the author of the original idea or script. I just extended the functionality and extracted it as a separate package. I would like to thank Adam Myhre, aka Git Amend, for creating the script. Please visit his YouTube channel for more tips on Unity game development. https://www.youtube.com/@git-amend"
 }

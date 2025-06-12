@@ -2,7 +2,7 @@
   "name": "com.lazyredpaw.guidserialization",
   "displayName": "Guid Serialization",
   "version": "1.0.1",
-  "unity": "6000.0",
+  "unity": "2022.3",
   "author": {
     "name": "Lazy Redpaw"
   },
